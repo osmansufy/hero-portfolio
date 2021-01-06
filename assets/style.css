@@ -1,0 +1,122 @@
+body{
+   margin: 50px 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.width-50{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 140px;
+    
+}
+.hlt{
+    color: #F46060;
+}
+h1{
+    margin: 0;
+    padding: 0;
+}
+.project-section {
+    background: #E5E5E5;
+    padding: 80px 0;
+  }
+
+  .project-section h1 {
+   
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 48px;
+    text-align: center;
+    margin-bottom: 80px;
+}
+p {
+    
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #3E3E3E;
+}
+.link-button {
+    background: linear-gradient(0deg, #FF8063 -28.33%, #F46060 95.83%);
+    border-radius: 6px;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: #fff;
+    font-family: "";
+}
+
+.w-30 {
+    width: 30%;
+    float: left;
+    margin-left: 1%;
+    padding: 20px 1%;
+    background: #FFFFFF;
+    box-shadow: 0px 6.5812px 19.7436px rgba(0, 0, 0, 0.07);
+    border-radius: 19.7436px;
+  
+}
+
+.project-section p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    color: #6C6C6C;
+}
+
+.project-section h1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 48px;
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+
+.inquery-container {
+    background: linear-gradient(138.38deg, #5D69E9 -7.79%, #4225B6 98.72%);
+    border-radius: 30px;
+    width: 40px;
+    width: 906px;
+    height: 225px;
+    margin: 0 auto;
+}
+
+.inquery-container h3 {
+    float: left;
+
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 64px;
+    color: #FFFFFF;
+    margin: 5px;
+    margin: 80px 0 0 50px;
+}
+
+
+.inquery-container .inqbtn {
+    margin: 85px 40px;
+    float: right;
+}
+.inquery {
+    padding: 100px;
+    text-align: center;
+}
+
+.link-button img {
+    width: 15px;
+
+    margin-top: 20px;
+    margin: 10px 10px 0 0;
+}
